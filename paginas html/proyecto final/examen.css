@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    border-top: 3px solid black; /* Línea negra arriba del título */
+    padding-top: 10px; /* Espacio entre la línea y el texto */
+}
+
+body {
+    background-color: green; /* Puedes cambiar el color */
+}
+
+h3, h4, h2 {
+    color: antiquewhite;
+    background-color: rgba(0, 255, 8, 0.516); /* Fondo negro semi-transparente */
+    padding: 5px; /* Espacio alrededor del texto */
+    display: inline-block; /* Para que el fondo no cubra toda la línea */
+    border-radius: 5px; /* Bordes redondeados */
+}
